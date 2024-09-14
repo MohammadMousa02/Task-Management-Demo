@@ -16,19 +16,19 @@ GIFs are attached at the end.
 
 
 ## Technologies Used
-- **Backend**: PHP Laravel
-- **Frontend**: HTML/CSS, JavaScript, React.js
-- **Database**: MySQL
+- **Backend** : PHP Laravel
+- **Frontend** : HTML/CSS, JavaScript, React.js
+- **Database** : MySQL
 
 
 ## Features
-- **Task Management**: Create, update, and delete tasks.
-- **Due Date Tracking**: Ensure tasks are completed on time.
-- **Real-Time Updates**: See updates instantly when tasks are modified.
-- **User Authentication**: Secure login and registration.
-- **Task Delegation**: Assign tasks to others.
-- **Profile Management**: Update account info and change password.
-- **Account Deletion**: Easily delete your account.
+- **Task Management** : Create, update, and delete tasks.
+- **Due Date Tracking** : Ensure tasks are completed on time.
+- **Real-Time Updates** : See updates instantly when tasks are modified.
+- **User Authentication** : Secure login and registration.
+- **Task Delegation** : Assign tasks to others.
+- **Profile Management** : Update account info and change password.
+- **Account Deletion** : Easily delete your account.
 
 
 ## GIFs
@@ -61,10 +61,8 @@ GIFs are attached at the end.
 ![DeleteTask](/assets/deleteTask.gif)
 <br>
 
-### Back to the dashboard :
-![Dashboard](/assets/emptyDashboard.gif)
-<br>
-
 ### Click on "logout" :
 ![logout](/assets/logout.gif)
 <br>
+
+Mohammad Mousa.
